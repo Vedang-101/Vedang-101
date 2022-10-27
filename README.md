@@ -8,5 +8,5 @@ Being a computer engineer, I love to understand the "under the hood" workings of
 <a href="https://www.linkedin.com/in/vedangrahurkar/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png" width="40" height="40"/></a>
 <a href="https://rhang.itch.io/" target="_blank"><img src="https://static-00.iconduck.com/assets.00/itch-io-icon-512x512-wwio9bi8.png" width="37" height="37"/></a>
 <a href="https://www.instagram.com/rhang_101/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" height="40"/></a>
-<a href="mailto:vedangr20@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40"/></a>
+<a href="mailto:vedangr20@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="40" height="40"/></a>
 </p>
